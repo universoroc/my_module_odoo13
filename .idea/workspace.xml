@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8668a5ab-6ca7-48e8-81d7-7710ce0bdbd1" name="Default Changelist" comment="Primer Commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jTrKJk7wrx2fmH3pab7O8FprQx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8668a5ab-6ca7-48e8-81d7-7710ce0bdbd1" name="Default Changelist" comment="" />
+      <created>1603838857329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603838857329</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primer Commit">
+      <created>1605801719368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605801719368</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primer Commit">
+      <created>1605803018481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605803018481</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Primer Commit">
+      <created>1605803035229</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605803035229</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Primer Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="423" y="156" width="424" height="495" key="FileChooserDialogImpl" timestamp="1606618507819">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="423" y="156" width="424" height="495" key="FileChooserDialogImpl/0.0.1280.800@0.0.1280.800" timestamp="1606618507819" />
+    <state x="149" y="31" width="982" height="741" key="SettingsEditor" timestamp="1606619608512">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="31" width="982" height="741" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1606619608512" />
+    <state x="240" y="126" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1605803174588">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="126" width="800" height="543" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1605803174588" />
+    <state x="459" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605790143139">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="459" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800@0.0.1280.800" timestamp="1605790143139" />
+    <state x="449" y="305" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605790087639">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="449" y="305" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.800@0.0.1280.800" timestamp="1605790087639" />
+    <state x="478" y="188" key="svn.repositoryBrowser" timestamp="1605800235810">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="478" y="188" key="svn.repositoryBrowser/0.0.1280.800@0.0.1280.800" timestamp="1605800235810" />
+  </component>
+</project>
